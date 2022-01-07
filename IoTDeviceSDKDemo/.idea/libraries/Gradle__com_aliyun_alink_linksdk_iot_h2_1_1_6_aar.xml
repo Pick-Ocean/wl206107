@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:iot-h2:1.1.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/res" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/a933081a50e738d5f5aa35432d10b9f4/iot-h2-1.1.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

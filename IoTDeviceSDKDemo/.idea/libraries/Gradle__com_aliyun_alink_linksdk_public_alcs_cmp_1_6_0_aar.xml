@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/9f0745d4607df669359777aa6f0272d2/public-alcs-cmp-1.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

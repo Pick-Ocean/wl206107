@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:iot-apiclient:1.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aliyun.alink.linksdk/iot-apiclient/1.0.1/6645aa8a49b05519326af0fc95f416cd8b375397/iot-apiclient-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/modules-2/files-2.1/com.aliyun.alink.linksdk/iot-apiclient/1.0.1/6645aa8a49b05519326af0fc95f416cd8b375397/iot-apiclient-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

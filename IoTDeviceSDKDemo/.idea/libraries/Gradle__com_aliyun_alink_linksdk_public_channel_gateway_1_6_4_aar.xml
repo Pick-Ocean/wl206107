@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:public-channel-gateway:1.6.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/res" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/4405c48e1d001238d968686c2415ea21/public-channel-gateway-1.6.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

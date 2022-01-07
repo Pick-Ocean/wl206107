@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-all:4.1.23.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/e5e42b90fb9232c43eb79a43941f0a02ab87ba37/netty-all-4.1.23.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/e5e42b90fb9232c43eb79a43941f0a02ab87ba37/netty-all-4.1.23.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/9bb531a5b4da0923e07dfb6db5c8834ccdc48566/netty-all-4.1.23.Final-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/9bb531a5b4da0923e07dfb6db5c8834ccdc48566/netty-all-4.1.23.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/66f450fcf7f094c6d772aeb1a15d30dbdc2baa/netty-all-4.1.23.Final-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/modules-2/files-2.1/io.netty/netty-all/4.1.23.Final/66f450fcf7f094c6d772aeb1a15d30dbdc2baa/netty-all-4.1.23.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

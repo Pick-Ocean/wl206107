@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:public-channel-core:0.7.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/res" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/c0ce463d7061a3745b681736746830b4/public-channel-core-0.7.7.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

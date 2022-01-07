@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ota.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_ota.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_log_scrollview.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\item_log_scrollview.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_on.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-hdpi\\on.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_off.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-hdpi\\off.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_control_pannel.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_control_pannel.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_light_example.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_light_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gateway.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw_deviceinfo.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\raw\\deviceinfo"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normalbutton_textcolor.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\drawable\\normalbutton_textcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_normalbutton_background.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\drawable\\normalbutton_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cota.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_cota.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_label.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_breeze_ota.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_breeze_ota.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_item_property.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\listview_item_property.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_demo.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw_deviceinfoguide.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\raw\\deviceinfoguide"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_template.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_test_template.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_light_example_bak.xml.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\layout\\activity_light_example_bak.xml"
+    },
+    {
+        "merged": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DJC\\Desktop\\IoTDeviceSDKDemo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

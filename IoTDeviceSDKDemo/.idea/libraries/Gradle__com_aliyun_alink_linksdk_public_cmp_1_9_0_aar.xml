@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aliyun.alink.linksdk:public-cmp:1.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/res" />
+      <root url="file://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../MobileSensorInfo-master/onIntellij/SensorLogger/gradle/wrapper/caches/transforms-2/files-2.1/19b9718ece5343e1677df4d67a2dfb16/public-cmp-1.9.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

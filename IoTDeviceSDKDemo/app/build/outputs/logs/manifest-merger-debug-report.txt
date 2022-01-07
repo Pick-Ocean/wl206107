@@ -1,0 +1,424 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+MERGED from [aps.aar] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\32b6a8ac35289a616c141ec98d44cce5\aps\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\1b682c72d1b98987a70aca7efb20d96a\multidex-1.0.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:2:1-15:12
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:2:1-21:12
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.aliyun.alink.linksdk:connectsdk:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ab5fe2f6e5afa63658af28e7938a8a0b\connectsdk-1.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:2:1-18:12
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:2:1-18:12
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:2:1-29:12
+MERGED from [com.aliyun.alink.linksdk:tools:1.3.5.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e4ff02bf16f4861f40f6eaf20100dbcb\tools-1.3.5.1\AndroidManifest.xml:2:1-16:12
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:2:1-19:12
+MERGED from [com.aliyun.alink.linksdk:opensource-paho:1.2.0.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ee5b53787fc52be272542ac880b81100\opensource-paho-1.2.0.6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.aliyun.iot.aep.sdk:threadpool:0.0.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\403cbe2453c2c2b565dd8acb0bee3520\threadpool-0.0.3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+	package
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:1-58:12
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:13:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:13:5-67
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:17:5-67
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:17:5-67
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:16:5-67
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:16:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:opensource-paho:1.2.0.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ee5b53787fc52be272542ac880b81100\opensource-paho-1.2.0.6\AndroidManifest.xml:8:5-67
+MERGED from [com.aliyun.alink.linksdk:opensource-paho:1.2.0.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ee5b53787fc52be272542ac880b81100\opensource-paho-1.2.0.6\AndroidManifest.xml:8:5-67
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:14:5-67
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:17:5-81
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:17:5-81
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:11:5-81
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:7:5-80
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:18:5-80
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:18:5-80
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:17:5-80
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:16:5-68
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:9:5-78
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:15:5-79
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:15:5-79
+MERGED from [com.aliyun.alink.linksdk:connectsdk:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ab5fe2f6e5afa63658af28e7938a8a0b\connectsdk-1.0.0\AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.alink.linksdk:connectsdk:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ab5fe2f6e5afa63658af28e7938a8a0b\connectsdk-1.0.0\AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:15:5-79
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:11:22-80
+uses-sdk
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+MERGED from [aps.aar] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\32b6a8ac35289a616c141ec98d44cce5\aps\AndroidManifest.xml:7:5-9:41
+MERGED from [aps.aar] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\32b6a8ac35289a616c141ec98d44cce5\aps\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\1b682c72d1b98987a70aca7efb20d96a\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\1b682c72d1b98987a70aca7efb20d96a\multidex-1.0.3\AndroidManifest.xml:20:5-43
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:connectsdk:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ab5fe2f6e5afa63658af28e7938a8a0b\connectsdk-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:connectsdk:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ab5fe2f6e5afa63658af28e7938a8a0b\connectsdk-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:tools:1.3.5.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e4ff02bf16f4861f40f6eaf20100dbcb\tools-1.3.5.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:tools:1.3.5.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e4ff02bf16f4861f40f6eaf20100dbcb\tools-1.3.5.1\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\eab914ae2b0ae69bba8b5cdf1163eae3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7093625e245be2f9da059fb69635e386\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\d8652eecaec1541e3b83ea201124b443\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ebdaba724d630547519146b185ca3ca2\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b4c6af1ae4345cab0a622f08a7523356\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\57ac94badb477ef97ca9b2d2685353fd\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\76f967ba5224a2324c7b36a6b6beb8ef\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\89face3daa86ec6e301af2545a00e819\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\7cadb58b8c0c86a09731971f6307fd56\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\efd769fb970c1894bc704f9b03375891\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\99286e9264ccffbdcfeef6a898d405a9\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c645b14cbf7400c1620284ec778917ed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\69584d4b522a168305e2fe7e786b3c2d\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\f0aa855178a708528b0b89a033e11975\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5a32061153c0ccb63d4c91e7462c854e\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\b3178544db81ff2083269db8058eb1dd\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fd28601af1e62f6b2008bfcf849ab48b\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a76aa01d89e969980164b1fd1e31c0c5\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\3c66927090c50d8cae8d532a1f537c39\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\6fc8c33e0b497e25ecd64651fccd3c8e\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\24deb7c88481bc7fd9652b157e2158d8\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\998135bdb7686494daa9579c72a212a4\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\158fb668b4a0516eb81e0ac79af18a91\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\bd647f4fe7f1f1847c7c2a54d917be44\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:10:5-12:41
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:10:5-12:41
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+	tools:overrideLibrary
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+	android:targetSdkVersion
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:13:5-14:82
+		INJECTED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:16:5-57:19
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:13:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-linkkit:1.7.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\66b087fd197aa48325839fad8ea50e32\iot-linkkit-1.7.2\AndroidManifest.xml:13:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.aliyun.alink.linksdk:public-channel-core:0.7.7.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\c0ce463d7061a3745b681736746830b4\public-channel-core-0.7.7.1\AndroidManifest.xml:20:5-21:19
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:19:5-53
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:19:5-53
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:public-cmp:1.9.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\19b9718ece5343e1677df4d67a2dfb16\public-cmp-1.9.0\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-h2-stream:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\fc020fcbef66615ad82232d8b8a23387\iot-h2-stream-1.1.6\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:public-channel-gateway:1.6.4] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\4405c48e1d001238d968686c2415ea21\public-channel-gateway-1.6.4\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:23:5-27:38
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:23:5-27:38
+MERGED from [com.aliyun.alink.linksdk:tools:1.3.5.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e4ff02bf16f4861f40f6eaf20100dbcb\tools-1.3.5.1\AndroidManifest.xml:14:5-20
+MERGED from [com.aliyun.alink.linksdk:tools:1.3.5.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e4ff02bf16f4861f40f6eaf20100dbcb\tools-1.3.5.1\AndroidManifest.xml:14:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:17:5-20
+MERGED from [com.aliyun.alink.linksdk:iot-h2:1.1.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a933081a50e738d5f5aa35432d10b9f4\iot-h2-1.1.6\AndroidManifest.xml:17:5-20
+MERGED from [com.aliyun.alink.linksdk:opensource-paho:1.2.0.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ee5b53787fc52be272542ac880b81100\opensource-paho-1.2.0.6\AndroidManifest.xml:10:5-20
+MERGED from [com.aliyun.alink.linksdk:opensource-paho:1.2.0.6] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\ee5b53787fc52be272542ac880b81100\opensource-paho-1.2.0.6\AndroidManifest.xml:10:5-20
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:14:5-15:19
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:14:5-15:19
+MERGED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:14:5-17:19
+MERGED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:14:5-17:19
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:16:5-20:19
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:16:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\5b0bdb1141ca8e0033dd5a0f32776df1\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:16:5-20
+MERGED from [com.aliyun.alink.linksdk:public-alcs-cmp:1.6.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\9f0745d4607df669359777aa6f0272d2\public-alcs-cmp-1.6.0\AndroidManifest.xml:16:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\06f6df44c76c4a181cad1895980d5a87\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:20:9-41
+		REJECTED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:19:18-50
+		REJECTED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:26:9-41
+		REJECTED from [com.aliyun.alink.linksdk:android_alcs_lpbs:1.7.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e1f145c4654209165d3fff57c47deb1a\android_alcs_lpbs-1.7.0\AndroidManifest.xml:15:9-41
+		REJECTED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:18:9-35
+		REJECTED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:24:9-35
+		REJECTED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:17:9-36
+	android:theme
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:23:9-40
+	tools:replace
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:24:9-58
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:17:9-70
+activity#com.aliyun.alink.devicesdk.demo.DemoActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:26:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.aliyun.alink.devicesdk.demo.LabelActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:34:9-81
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:34:19-79
+activity#com.aliyun.alink.devicesdk.demo.COTAActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:35:9-80
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:35:19-78
+activity#com.aliyun.alink.devicesdk.demo.ShadowActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:36:9-82
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:36:19-80
+activity#com.aliyun.alink.devicesdk.demo.OTAActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:37:9-79
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:37:19-77
+activity#com.aliyun.alink.devicesdk.demo.GatewayActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:38:9-84
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:38:19-81
+activity#com.aliyun.alink.devicesdk.demo.H2FileManagerActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:39:9-90
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:39:19-87
+activity#com.aliyun.alink.devicesdk.demo.MqttActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:40:9-81
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:40:19-78
+activity#com.aliyun.alink.devicesdk.demo.LogPushActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:41:9-84
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:41:19-81
+activity#com.aliyun.alink.devicesdk.demo.ResetActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:42:9-51
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:42:19-48
+activity#com.aliyun.alink.devicesdk.demo.TSLActivity
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:43:9-49
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:43:19-46
+provider#com.aliyun.alink.devicesdk.demo.FileProvider
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:46:9-56:20
+	android:grantUriPermissions
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:50:13-47
+	android:authorities
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:48:13-84
+	android:exported
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:47:13-72
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:52:13-54:53
+	android:resource
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:54:17-51
+	android:name
+		ADDED from C:\Users\DJC\Desktop\IoTDeviceSDKDemo\app\src\main\AndroidManifest.xml:53:17-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:12:5-76
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:14:5-76
+MERGED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:14:5-76
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:14:5-76
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:14:5-75
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:12:5-75
+MERGED from [com.aliyun.alink.linksdk:api-client-biz:1.0.0] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\272788fb1a02037591ed9b6a9252595d\api-client-biz-1.0.0\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:iot-device-manager:1.7.2.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\a81e309809642808a80703f10538bbd9\iot-device-manager-1.7.2.2\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:15:5-86
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:18:5-86
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:18:5-86
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:13:5-86
+MERGED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:15:22-83
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:16:5-76
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:19:5-76
+MERGED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:public-tmp:2.0.2.1] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\e662688139192b07568367fb3086f3e6\public-tmp-2.0.2.1\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.READ_SETTINGS
+ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:15:22-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.OVERRIDE_WIFI_CONFIG
+ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:android_alink_id2:1.1.3] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\22a26a541aee43645ea8e6b20c8bf944\android_alink_id2-1.1.3\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.aliyun.alink.linksdk:coap-sdk:1.8.2] C:\Users\DJC\Desktop\MobileSensorInfo-master\onIntellij\SensorLogger\gradle\wrapper\caches\transforms-2\files-2.1\23858884da1f1a99f78cbb9aff41a924\coap-sdk-1.8.2\AndroidManifest.xml:12:22-76
